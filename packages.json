@@ -1,19 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Pro Craft 1.0.0",
+      "name" : "Pro Craft",
+      "version" : "1.16.5-1.0.1",
+      "location" : "pro-craft.json",
+      "priority" : 0
+    }
+  ]
 }
